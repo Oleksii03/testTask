@@ -312,13 +312,13 @@ body {
   }
 
   .content__title {
+    min-width: 300px;
     font-size: 48px;
     line-height: 29.02px;
-    margin-right: 0;
-    margin-left: 20px;
   }
 
   .content__sub-title {
+    min-width: 300px;
     font-size: 21px;
     margin-top: 15px;
     line-height: 1;
